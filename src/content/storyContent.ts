@@ -37,7 +37,7 @@ export const storyContent: StoryContent = {
           id: "photo3",
           imagePlaceholder: "/photos/IMG_20231217_125305_178.jpg",
           caption: "The first night we enjoyed",
-          date: "An unforgettable trip",
+          date: "An unforgettable moments",
           location: "Somewhere beautiful"
         },
         {
@@ -45,13 +45,13 @@ export const storyContent: StoryContent = {
           imagePlaceholder: "/photos/20260117_163544~2.jpg",
           caption: "Just us, in our own little world",
           date: "A peaceful evening",
-          location: "Home"
+          location: "with my Home"
         },
         {
           id: "photo5",
           imagePlaceholder: "/photos/IMG_20260201_134756245_HDR.jpg",
           caption: "Every celebration is better with you",
-          date: "A special occasion",
+          date: "Best day",
           location: "Making memories"
         },
         {
